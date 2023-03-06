@@ -1,0 +1,8 @@
+Se=search -u https://www.google.com/search?q=%
+P=call 9451661387
+AM=call 89532 03864
+BM=call 81270 63103
+DB=call 6388133519
+MB=call 94503 85867
+KD=call 95559 43308
+DM=call 83038 15958
