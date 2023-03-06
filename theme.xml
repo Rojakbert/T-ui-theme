@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<THEME>
+<custom_command_color value="#FFFFFF"/>
+<input_color value="#FFFFFF"/>
+<output_color value="#FFFFFF"/>
+<bg_color value="#FFFFFF"/>
+<!--bg_color value="#00000000"-->
+
+<device_color value="#FFFFFF"/>
+
+<battery_color_high value="#FFFFFF"/>
+<battery_color_medium value="#f1fa8c"/>
+<battery_color_low value="#ff5555"/>
+
+<time_color value="#FFFFFF"/>
+<storage_color value="#FFFFFF"/>
+<ram_color value="#FFFFFF"/>
+
+<network_info_color value="#FFFFFF"/>
+<toolbar_bg value="#00000000"/>
+
+<!--toolbar_color value="#FFFFFF"-->
+<toolbar_color value="#FFFFFF"/>
+<!--   #6272a4  comment color-->
+<!--   #44475a  selection color-->
+
+<enter_color value="#FFFFFFFF"/>
+<cursor_color value="#ffffff"/>
+<overlay_color value="#00000000"/>
+
+<alias_content_color value="#FFFFFF"/>
+<!--alias_content_color value="#50fa7b"-->
+
+<statusbar_color value="#FFFFFFFF"/>
+<navigationbar_color value="#ff000000"/>
+<app_installed_color value="#FFFFFF"/>
+<app_uninstalled_color value="#FFFFFF"/>
+<hint_color value="#FFFFFF"/>
+<mark_color value="#FFFFFF"/>
+<notes_color value="#FFFFFF"/>
+<notes_locked_color value="#FFFFFF"/>
+<link_color value="#FFFFFF"/>
+<restart_message_color value="#FFFFFF"/>
+<weather_color value="#FFFFFF"/>
+<unlock_counter_color value="AAFFFFFF"/>
+<session_info_color value="#FFFFFF"/>
+<status_lines_bgrectcolor value="#60000000,#60000000,#60000000,#60000000,#0064FE19,#6064FE19,#64FE19,#64FE19,#64FE19"/>
+<input_bgrectcolor value="#00000000"/>
+<output_bgrectcolor value="#00000000"/>
+<toolbar_bgrectcolor value="#00000000"/>
+<suggestions_bgrectcolor value="#00000000"/>
+<status_lines_bg value="#60000000,#60000000,#60000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000"/>
+<input_bg value="#00000000"/>
+<output_bg value="#00000000"/>
+<suggestions_bg value="#00000000"/>
+<status_lines_shadow_color value="#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000"/>
+<input_shadow_color value="#00FFFFFF"/>
+<output_shadow_color value="#00000000"/>
+</THEME>
